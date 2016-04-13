@@ -2,14 +2,16 @@
 
 Beginning with the pièce de résistance,
 
-![Hello World](images/rPi.jpg)
+![rPi](images/rPi.jpg)
 
-here is some hardware to 
+The (#4-40) hardware shown below will be used to mount the rPi.
 
-![Hello World](images/hardware.jpg)
+![hardware](images/hardware.jpg)
 
-the parts above can be assembled as shown below to mount the rPi:
+* [standoffs](https://www.pololu.com/product/1949)
+* [screws](https://www.pololu.com/product/1961)
+* [hex nuts](https://www.pololu.com/product/1068)
 
-![Hello World](images/rPi-mounted.jpg)
+![rPi-mounted](images/rPi-mounted.jpg)
 
 
