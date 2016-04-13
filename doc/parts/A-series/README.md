@@ -8,3 +8,7 @@ more testing...
 
 ![Hello World](images/rPi-mounted.jpg?raw=true)
 
+even more testing...
+
+![Hello World](images/hardware.jpg)
+
