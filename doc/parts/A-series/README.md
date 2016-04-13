@@ -1,14 +1,15 @@
 # A-series parts
 
-testing...
+Beginning with the pièce de résistance,
 
-![Hello World](https://github.com/cjdaly/CompuCanvas/blob/master/doc/parts/A-series/images/rPi.jpg?raw=true)
+![Hello World](images/rPi.jpg)
 
-more testing...
-
-![Hello World](images/rPi-mounted.jpg?raw=true)
-
-even more testing...
+here is some hardware to 
 
 ![Hello World](images/hardware.jpg)
+
+the parts above can be assembled as shown below to mount the rPi:
+
+![Hello World](images/rPi-mounted.jpg)
+
 
