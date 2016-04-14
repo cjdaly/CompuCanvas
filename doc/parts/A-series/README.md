@@ -26,13 +26,21 @@ The rPi and other components will be set behind this canvas,
 
 ![tplink-poe](images/tplink-poe.jpg)
 
+The [blinkstick nano](https://www.blinkstick.com/products/blinkstick-nano) plugs directly into a USB port and has an RGB LED on each side.
+
 ![blinkstick-nano](images/blinkstick-nano.jpg)
 
 ### cables
 
+These [USB](https://www.adafruit.com/products/908) and [Ethernet](https://www.adafruit.com/products/909) panel mount cables from Adafruit are the interface between the front of the canvas and the parts inside.
+
 ![panel-cables](images/panel-cables.jpg)
 
+Also from Adafruit, one of these barrel jack to USB power [adapters](https://www.adafruit.com/products/2789) or short [cables](https://www.adafruit.com/products/2727) is used to send the incoming power from the POE unit to the rPi.
+
 ![power-cables](images/power-cables.jpg)
+
+The longer ethernet cable below is used outside the canvas and the short one is used inside.
 
 ![eth-cables](images/eth-cables.jpg)
 
