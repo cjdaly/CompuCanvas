@@ -16,7 +16,7 @@ These #4-40 parts from Pololu fit through the rPi mounting holes:
 
 ![rPi-mounted](images/rPi-mounted.jpg)
 
-The rPi and other components will be set behind this canvas,
+The rPi and other components will be set behind this canvas.  These 11x14 inch "heavy duty" canvases are deeper than the regular canvases at my local shop, with about 1.5 inches of space behind the canvas to hide the rPi, cables and other parts.
 
 ![canvas](images/canvas.jpg)
 
