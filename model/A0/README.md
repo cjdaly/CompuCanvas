@@ -1,5 +1,7 @@
 # CompuCanvas model A0
 
+![A0-running-7-med](images/A0-running-9-med.jpg)
+
 ![A0-running-7-med](images/A0-running-7-med.jpg)
 
 
