@@ -26,7 +26,7 @@ The angle bracket should be screwed in close to the cables so it will hold them 
 
 ![cables-controlled2](images/cables-controlled2.jpg)
 
-I try to leave the plastic wrap over most of the canvas, but cut away in front to avoid small pieces of plastic getting stuck around the cable screws.
+While doing the initial canvas work, I leave the plastic wrap over most of it but cut away some to avoid small pieces of plastic getting stuck around the cable screws.
 
 ![canvas-front](images/canvas-front.jpg)
 
