@@ -8,7 +8,7 @@ The hardware shown below will be used to mount the rPi.
 
 ![hardware](images/hardware.jpg)
 
-These #4-40 from Pololu fit through the rPi mounting holes:
+These #4-40 parts from Pololu fit through the rPi mounting holes:
 
 * [standoffs](https://www.pololu.com/product/1949)
 * [screws](https://www.pololu.com/product/1961)
