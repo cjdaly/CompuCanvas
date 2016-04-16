@@ -10,24 +10,29 @@
 #   cjdaly - initial API and implementation
 ####
 
-sleep 5
+function espeaker() {
+  espeak "$@" 2>/dev/null
+}
+
+sleep 3
 blinkstick --index 0 off
 blinkstick --index 1 off
 sleep 1
-blinkstick --index 0 --pulse blue
+blinkstick --index 0 --pulse white
 sleep 1
+
 blinkstick --index 1 --pulse blue
-sleep 1
-
-echo "Hello from comp U Canvas" | festival --tts
+espeaker "Hello from comp U Canvas"
 sleep 2
 
-echo "I P address" | festival --tts
-hostname -I | festival --tts
+blinkstick --index 1 --pulse blue
+espeaker "I P address"
+hostname -I | espeaker -s 100
 sleep 2
 
-echo "repeating I P address" | festival --tts
-hostname -I | festival --tts
+blinkstick --index 1 --pulse blue
+espeaker "repeating I P address"
+hostname -I | espeaker -s 100
 sleep 1
 
 blinkstick --index 0 blue

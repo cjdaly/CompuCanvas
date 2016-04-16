@@ -12,8 +12,9 @@
 
 apt-get update
 apt-get upgrade -y
-apt-get install python-pip festival -y
+apt-get install espeak mpg321 -y
 pip install blinkstick
+blinkstick --add-udev-rule
 
 if ! grep "boot-sequence" /etc/rc.local
 then
