@@ -13,3 +13,4 @@ Raspberry Pi systems in wall-hanging art canvas enclosures.
 * [Model A0 details](model/A0)
 * [Model A0 construction](model/A0/construction)
 * [CompuCanvas A-series parts](doc/parts/A-series)
+* [CompuCanvas support scripts](code)
