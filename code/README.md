@@ -11,7 +11,7 @@ Use the `blinkstick` command to control the BlinkStick lights.  Run `blinkstick 
     blinkstick --index 0 --pulse red
     blinkstick --index 1 green
 
-#### text to speech (espeak)
+#### text to speech
 
 Use the `espeak` command to make the CompuCanvas talk.  Note that this command emits some spurious errors which can be directed to `/dev/null` like this:
 
