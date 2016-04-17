@@ -5,7 +5,7 @@
 #### tech specs
 
 * Raspberry Pi 2 (4 cores, 32-bit ARM, 1GB RAM)
-* speaker system
+* speaker system and USB audio driver
 * power over Ethernet unit
 * BlinkStick nano
 
