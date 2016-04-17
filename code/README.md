@@ -3,7 +3,7 @@
 
 #### initial system setup
 
-Burn Raspbian Jessie image onto microSD, boot and login (`user: pi, pw: raspberry`), then do:
+Burn Raspbian Jessie image onto microSD, boot and login (`user:pi ; pw:raspberry`), then do:
 
     sudo passwd pi
 
