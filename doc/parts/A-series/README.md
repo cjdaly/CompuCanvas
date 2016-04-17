@@ -24,6 +24,10 @@ The rPi and other components will be set behind this canvas.  These 11x14 inch "
 
 ![speaker](images/speaker.jpg)
 
+I originally used the audio jack on the rPi, but noticed frequent pops from the speaker when playback was starting and finishing.  I switched to the [USB audio](https://www.adafruit.com/products/1475) driver shown below and am getting much better sound quality with it.
+
+![usb-audio](images/usb-audio.jpg)
+
 ![tplink-poe](images/tplink-poe.jpg)
 
 The [blinkstick nano](https://www.blinkstick.com/products/blinkstick-nano) plugs directly into a USB port and has an RGB LED on each side.
