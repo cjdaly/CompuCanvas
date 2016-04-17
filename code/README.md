@@ -1,7 +1,31 @@
 
 ## CompuCanvas code
 
-#### initial system setup
+### command line control
+
+#### BlinkStick
+
+Use the `blinkstick` command to control the BlinkStick lights.  Run `blinkstick --help` to see usage information.  Here are some example commands:
+
+    blinkstick --pulse red
+    blinkstick --index 0 --pulse red
+    blinkstick --index 1 green
+
+#### text to speech (espeak)
+
+Use the `espeak` command to make the CompuCanvas talk.  Note that this command emits some spurious errors which can be directed to `/dev/null` like this:
+
+    espeak "Hello" 2>/dev/null
+
+Run `espeak --help` to see usage information.
+
+#### playing MP3s
+
+The `mpg321` program has been installed for playing audio files.  Run `mpg321 --help` for usage information.  Given an audio file named `song.mp3`, play it with:
+
+    mpg321 song.mp3
+
+### initial system configuration
 
 Burn Raspbian Jessie image onto microSD, boot and login (`user:pi ; pw:raspberry`), then do:
 
