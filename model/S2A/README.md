@@ -7,7 +7,7 @@
 * Raspberry Pi 3 (4 cores, 64-bit ARM, 1GB RAM)
 * speaker system and USB audio driver
 * Power over Ethernet unit
-* ODROID Show2
+* ODROID Show2 with WeatherBoard
 * BlinkStick square
 
 ![S2A-running-4-med](images/S2A-running-4-med.jpg)
