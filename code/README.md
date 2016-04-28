@@ -5,7 +5,7 @@
 
 #### BlinkStick
 
-Use the `blinkstick` command to control the BlinkStick lights.  Run `blinkstick --help` to see usage information.  Here are some example commands:
+Use the `blinkstick` command to control the [BlinkStick](https://www.blinkstick.com/) lights.  Run `blinkstick --help` to see usage information.  Here are some example commands:
 
     blinkstick --pulse red
     blinkstick --index 0 --pulse red
