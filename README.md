@@ -10,7 +10,11 @@ Raspberry Pi systems in wall-hanging art canvas enclosures.
 
 ##### more info
 
-* [Model A0 details](model/A0)
-* [Model A0 construction](model/A0/construction)
+* Model A0 [details](model/A0), [construction](model/A0/construction)
 * [CompuCanvas A-series parts](doc/parts/A-series)
-* [CompuCanvas code](code)
+* Model S2A [details](model/S2A)
+
+
+See the [CompuCanvas-code](https://github.com/cjdaly/CompuCanvas-code) repo
+for details on how to use CompuCanvas features and how to setup new CompuCanvas
+(starting from Raspbian Jessie install).
