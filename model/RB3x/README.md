@@ -10,4 +10,4 @@
 * Maxbotix Ultrasonic Rangefinder
 * BlinkStick Square, Strip and Nano
 
-![RB3x-running-4-med](images/RB3x-running-4-med.jpg)
+![RB3x-running-3-med](images/RB3x-running-3-med.jpg)
