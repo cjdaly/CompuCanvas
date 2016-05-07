@@ -10,6 +10,6 @@ Raspberry Pi systems in wall-hanging art canvas enclosures.
 * Model S2A [details](model/S2A)
 * Model RB3x [details](model/RB3x)
 
-See the [CompuCanvas-code](https://github.com/cjdaly/CompuCanvas-code) repo
-for details on how to use CompuCanvas features and how to setup new CompuCanvas
-(starting from Raspbian Jessie install).
+:sparkles: Some CompuCanvas models are available for sale in the [IoTArtworks Etsy store](https://www.etsy.com/shop/IoTArtworks). :sparkles:
+
+See the [CompuCanvas-code](https://github.com/cjdaly/CompuCanvas-code) repo for notes on how to control CompuCanvas features from the Linux command line and how to setup a new CompuCanvas (starting from new Raspbian Jessie install).
