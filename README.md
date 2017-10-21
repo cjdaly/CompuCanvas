@@ -17,4 +17,4 @@ Raspberry Pi systems in wall-hanging art canvas enclosures.
 
 See the [CompuCanvas-code](https://github.com/cjdaly/CompuCanvas-code) repo for notes on how to control CompuCanvas features from the Linux command line and how to setup a new CompuCanvas (starting from new Raspbian Jessie install).
 
-![RB3y](model/RB3y/images/RB3y-horiz5.jpg)
+![RB3y](model/RB3y/images/RB3y-horiz2.jpg)
