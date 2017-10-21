@@ -9,7 +9,7 @@ When I saw the [Day of the Geek badge](https://www.adafruit.com/product/3590) on
 #### tech specs
 
 * Raspberry Pi 3 (4 cores, 64-bit ARM, 1GB RAM)
-* speaker system and USB audio driver
+* USB speaker system
 * Power over Ethernet unit
 * 3 Adafruit CircuitPython devices
   * [GemmaM0](https://www.adafruit.com/product/3501) on the war bone
