@@ -13,8 +13,8 @@ Raspberry Pi systems in wall-hanging art canvas enclosures.
 * Model RB3y [details](model/RB3y)
 * Model SKTn1 ("SkeletonKingThing") [details](model/SKTn1)
 
-![RB3y](model/RB3y/images/RB3y-horiz5.jpg)
+![SKTn1](model/SKTn1/images/SKTn1-horiz.jpg)
 
 See the [CompuCanvas-code](https://github.com/cjdaly/CompuCanvas-code) repo for notes on how to control CompuCanvas features from the Linux command line and how to setup a new CompuCanvas (starting from new Raspbian Jessie install).
 
-![SKTn1](model/SKTn1/images/SKTn1-horiz.jpg)
+![RB3y](model/RB3y/images/RB3y-horiz5.jpg)
