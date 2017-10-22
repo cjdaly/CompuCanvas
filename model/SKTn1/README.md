@@ -2,7 +2,7 @@
 
 ![SKTn1-horiz](images/SKTn1-horiz.jpg)
 
-When I saw the [Day of the Geek badge](https://www.adafruit.com/product/3590) on Adafruit, I knew I had to build another CompuCanvas.  Just in time for Halloween 2017 comes the Skeleton King Thing!  Equipped with a war bone and a smart phone, he straddles the thin line between our world and the netherworld behind the canvas.
+When I saw the [Day of the Geek badge](https://www.adafruit.com/product/3590) on Adafruit, I knew it was time to build another CompuCanvas.  Just in time for Halloween 2017 comes the Skeleton King Thing!  Equipped with a war bone and a smart phone, he straddles the thin line between our world and the netherworld behind the canvas.
 
 ![SKTn1-vert](images/SKTn1-vert.jpg)
 
