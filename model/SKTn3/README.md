@@ -10,7 +10,7 @@
 * Pimoroni [LED shim](https://shop.pimoroni.com/products/led-shim)
 * Pimoroni [piano hat](https://shop.pimoroni.com/products/piano-hat)
 * Adafruit [HalloWing](https://www.adafruit.com/product/3900)
-* Adafruit [NeoPixel strand](https://www.adafruit.com/product/3630) (behind canvas, connected to HalloWing)
+* Adafruit [NeoPixel strand](https://www.adafruit.com/product/3630) (behind canvas, connected to HalloWing via [Adafruit 3894](https://www.adafruit.com/product/3894))
 * Adafruit [Gemma M0](https://www.adafruit.com/product/3501)
 * USB speaker: Go Groove SonaVERSE USB
 
