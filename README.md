@@ -12,7 +12,7 @@ Raspberry Pi systems in wall-hanging art canvas enclosures.
 * Model RB3x [details](model/RB3x)
 * Model RB3y [details](model/RB3y)
 * Model SKTn1 ("SkeletonKingThing") [details](model/SKTn1)
-* New in 2019, Models [SKTn2](model/SKTn2), [SKTn3](model/SKTn3) and [SKTn4](model/SKTn4)!
+* New in 2019: models [SKTn2](model/SKTn2), [SKTn3](model/SKTn3) and [SKTn4](model/SKTn4)!
 
 ![SKTn1](model/SKTn1/images/SKTn1-horiz.jpg)
 
