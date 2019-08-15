@@ -12,3 +12,5 @@
 * Adafruit [HalloWing](https://www.adafruit.com/product/3900)
 * Adafruit [CircuitPlaygroundExpress](https://www.adafruit.com/product/3333) (behind canvas)
 * USB speaker (behind canvas)
+
+![SKTn4 closeup](images/SKTn4-closeup.JPG)
